@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuController.js">
+    <Files>
+      <File FileName="Assets\Scripts\GunFire.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HandGunDamage.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CrossAnimate.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalAmmo.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AmmoPickup.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerCasting.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OpenDoor001.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HandGunReloading.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PickUp9mm.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalScore.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ZScore25.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ZScore50.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ZScore100.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PickUpSMG.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GunFireSMG.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyMove.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyLook.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ZombieFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SoldierEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SoldierEnemyScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuController.js" Line="28" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
